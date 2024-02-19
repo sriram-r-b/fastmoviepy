@@ -13,8 +13,5 @@ Example
 
 In this Example we list the images in a directory and apply the transitions to the image.
 
-.. code:: bash
-    
-
     $ python slideshow_video_generator.py
     
