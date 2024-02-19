@@ -1,11 +1,20 @@
 # FastMoviepy
 
-## This is a simple library to get photo(s) animated to video faster than moviepy
+This is a simple library to get photo(s) animated to video faster than moviepy
+Tried searching for a fast solution to create a video animation using python but got only movie py which is slooowwwwwwwww
+So created a light and faster one with simple functions
 
-## Tried searching for a fast solution to create a video animation but got only movie py which is slooowwwwwwwww
+Currently has 2 features .Anyone is welcome to contribute
 
-## So created one on my own with simple functions
+The animations available are zoom and translate
 
-## Currently has few features Anyone is welcome to contribute
+Example
+-------
 
-to view demo run <br> python slideshow_video_generator.py
+In this Example we list the images in a directory and apply the transitions to the image.
+
+.. code:: bash
+    
+
+    $ python slideshow_video_generator.py
+    
